@@ -1,0 +1,1 @@
+this project aims to implement object detection using yolov8, a state-of-the-art deep learning architecture known for its speed and accuracy in real-time object detection tasks. yolov8 (you only look once version 8) builds upon the success of previous versions
