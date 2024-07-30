@@ -1,0 +1,14 @@
+names:
+- mask_weared_incorrect
+- with_mask
+- without_mask
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: cusmask
+  url: https://universe.roboflow.com/ahmed-ufcfp/cusmask/dataset/1
+  version: 1
+  workspace: ahmed-ufcfp
+test: /kaggle/working/cusmask-1/test
+train: /kaggle/working/cusmask-1/train
+val: /kaggle/working/cusmask-1/valid
